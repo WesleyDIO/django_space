@@ -382,3 +382,18 @@ table {
     border: 2px solid #7B78E5;
     cursor: pointer;
 }
+
+.alert1 {
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.alert-primary1 {
+    background-color: #cfe2ff;
+    color: #084298;
+    border: 1px solid #b6d4fe;
+}
+
+
